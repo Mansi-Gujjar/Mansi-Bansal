@@ -24,14 +24,6 @@ I believe in **learning by building**, and this GitHub is a growing portfolio of
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-Gujjar&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Gujjar&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
 
 ## ✍️ Latest Blog on Medium
 
