@@ -12,6 +12,29 @@ I love working on problems where math, coding, and real-world physics meet — e
 
 ---
 
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, R, Matlab 
+- **Data Science:** Pandas, NumPy, Matplotlib, Jupyter, Sql 
+- **Web Scraping:** Selenium, Requests  
+- **ML Foundations:** Linear algebra, basic ML algorithms  
+- **Scientific Computing:** Nonlinear solvers, finite-difference schemes, boundary-value problems  
+- **Soft Skills:** Research writing, documentation, reproducibility, debugging numerical models  
+
+---
+
+## ✍️ Latest Blog on Medium
+
+### 🔗 **Python: The First Step Toward Data Science & Machine Learning**  
+A beginner-friendly overview of Python modules, functions, and why Python is essential in the DS/ML world.  
+👉 Read here: **https://medium.com/python-in-plain-english/python-the-first-step-toward-data-science-machine-learning-3638a61f4b9e**
+
+### 📝 Next Blog Teaser  
+**“Object-Oriented Programming (OOPs) in Python — Explained in Simple Words”**  
+Coming soon on my Medium profile.
+
+---
+
 ## 🧪 Research Interests
 
 ### 🔹 **Keller–Box Method**
@@ -35,39 +58,6 @@ I love working on problems where math, coding, and real-world physics meet — e
 - High-precision computation, error analysis, and stability checks  
 
 ---
-
-## 🛠️ Skills & Tools
-
-- **Languages:** Python, R, Matlab 
-- **Data Science:** Pandas, NumPy, Matplotlib, Jupyter, Sql 
-- **Web Scraping:** Selenium, Requests  
-- **ML Foundations:** Linear algebra, basic ML algorithms  
-- **Scientific Computing:** Nonlinear solvers, finite-difference schemes, boundary-value problems  
-- **Soft Skills:** Research writing, documentation, reproducibility, debugging numerical models  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-Gujjar&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Gujjar&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## ✍️ Latest Blog on Medium
-
-### 🔗 **Python: The First Step Toward Data Science & Machine Learning**  
-A beginner-friendly overview of Python modules, functions, and why Python is essential in the DS/ML world.  
-👉 Read here: **https://medium.com/python-in-plain-english/python-the-first-step-toward-data-science-machine-learning-3638a61f4b9e**
-
-### 📝 Next Blog Teaser  
-**“Object-Oriented Programming (OOPs) in Python — Explained in Simple Words”**  
-Coming soon on my Medium profile.
-
----
-
 ## 🌐 Medium Profile  
 👉 **https://medium.com/me/stories?tab=posts-published**
 
