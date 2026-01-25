@@ -29,9 +29,9 @@ I love working on problems where math, coding, and real-world physics meet — e
 A beginner-friendly overview of Python modules, functions, and why Python is essential in the DS/ML world.  
 👉 Read here: **https://medium.com/python-in-plain-english/python-the-first-step-toward-data-science-machine-learning-3638a61f4b9e**
 
-### 📝 Next Blog Teaser  
+### 📝 Next Blog   
 **“Object-Oriented Programming (OOPs) in Python — Explained in Simple Words”**  
-Coming soon on my Medium profile.
+👉 Read here: **https://medium.com/python-in-plain-english/object-oriented-programming-oop-in-python-a-complete-beginners-guide-f73ff05b0191**
 
 ---
 
